@@ -1,7 +1,7 @@
 
 # Random Password Generator
 
-Javascript Project - 1 - Random Password Generator
+Javascript Project - 1 - Random Password Generator - https://rajat-cdev.github.io/password-generator-js-01/
 
 
 
